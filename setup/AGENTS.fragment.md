@@ -1,0 +1,5 @@
+<!-- BEGIN HAND-OFF AUTO ROUTING -->
+## Repository feature explanation → hand-off
+When asked to explain, trace, locate, map, understand, debug conceptually, or learn to independently maintain an **existing part of the current repository**, load and apply the global `hand-off` skill—even if the user does not mention its name. This includes Persian requests about files, methods, controllers, services, providers, call chains, features and module architecture.
+Choose skill mode by scope: narrow method/class → EXPLAIN; bounded architecture/flow → EXPLORE; full feature/ownership request or `$hand-off <target>` → HANDOFF (two docs); update old dossier → REFRESH. Do not auto-generate docs for narrow questions. Do not invoke it for generic framework theory or implementation-only requests. Do not edit source code under a documentation-only request. Preserve the separate global `compatible-response` style skill; this routing rule covers **what to investigate**, not **how to format responses**.
+<!-- END HAND-OFF AUTO ROUTING -->
